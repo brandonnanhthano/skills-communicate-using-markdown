@@ -15,3 +15,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] work on this assignment
+- [x] finish this assignment
+- [ ] turn in this assignment
